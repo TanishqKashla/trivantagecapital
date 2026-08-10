@@ -263,6 +263,25 @@ const Page = () => {
                   </span>
                 </a>
               </li>
+
+              <li>
+                <a
+                  href="/invest/empanelled-distributors"
+                  className="flex items-center justify-between gap-3 text-primary hover:text-primary transition-colors group border border-primary/10 rounded px-4 py-3 bg-white"
+                >
+                  <span className="flex items-center gap-3">
+                    <span className="material-symbols-outlined text-xl opacity-60 group-hover:opacity-100" aria-hidden="true">
+                      groups
+                    </span>
+                    <span className="border-b border-transparent group-hover:border-primary/20">
+                      List of Empanelled Distributors
+                    </span>
+                  </span>
+                  <span className="material-symbols-outlined text-base opacity-50 group-hover:opacity-100" aria-hidden="true">
+                    arrow_forward
+                  </span>
+                </a>
+              </li>
             </ul>
 
           </div>
