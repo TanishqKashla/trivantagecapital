@@ -124,13 +124,7 @@ const Page = () => {
           List of Empanelled Distributors
         </h1>
 
-        <div className="h-px w-24 bg-primary/20 mb-6 sm:mb-8"></div>
-
-        <p className="text-base sm:text-lg md:text-xl text-primary/80 max-w-200 leading-relaxed font-light">
-          Distributors empanelled with Trivantage Capital Management India
-          Private Limited, disclosed in accordance with SEBI requirements for
-          Portfolio Managers.
-        </p>
+        <div className="h-px w-24 bg-primary/20"></div>
       </section>
 
       {/* Distributors Table */}
